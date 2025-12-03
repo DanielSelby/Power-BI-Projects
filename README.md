@@ -247,8 +247,8 @@ Average Credit Score = AVERAGE(users_data[credit_score])
 
 ## Contact
 
-For questions or to request the Power BI `.pbix`, data dictionary, or executive slide deck, contact: **(Analyst Name) — [data.analytics@aurorabank.com](mailto:data.analytics@aurorabank.com)**
+For questions or to request the Power BI `.pbix`, data dictionary, or executive slide deck, contact: **(Daniel Addy Selby) —[(daddyselbydataanalytics@gmail.com)**
 
----
+--- 
 
 *End of README*
